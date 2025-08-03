@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You're the visitor (or AI scraper) number
+
+![Profile views](https://counter.kuber.studio/bryanmaina/hacker/count.svg)
