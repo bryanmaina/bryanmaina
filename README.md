@@ -8,9 +8,7 @@ My hobbies include debugging code that should work, explaining what I do to my b
 
 # Work ? 🤝
 
-I've been professionally coding for 7+ years, but my keyboard and I go way back – think 18 years as hobbyists before I even considered it a career! 
-
-Post-traumatic stress disorder (PTSD) from Delphi, VB.NET, jQuery, Reading books, the great LAMP stack  plague, AngularJS(not Angular), Java Applets, servlets, the blues screen, SVN repos. In the ancient times, if you were a web developer or aspired to be one, life sucked really bad because of Internet explorer.
+I've been professionally coding for 7+ years, but my keyboard and I go way back – think 18 years as hobbyists before I even considered it a career! Post-traumatic stress disorder (PTSD) from Delphi, VB.NET, jQuery, Reading books, the great LAMP stack  plague, AngularJS(not Angular), Java Applets, servlets, the blues screen, SVN repos. In the ancient times, if you were a web developer or aspired to be one, life sucked really bad because of Internet explorer.
 
 In 2025, you might catch me indulging in what some call 'unemployed adult activities': Rust programming. I'm here, wrestling with lifetimes, celebrating successful compiles, and generally just reveling in the sheer elegance and power of Rust. Rust is a full-time mental occupation, even if it's not paying the bills... yet. So, if you hear me mumbling about 'borrow checkers' or 'thread safety,' just know I'm actively, enthusiastically, and very happily unemployed (for now)."
 
