@@ -6,7 +6,7 @@ My name is Bryan, I'm 32 years old and I live in Belgium.
 
 My hobbies include debugging code that should work, explaining what I do to my bewildered relatives, and occasionally remembering to blink. If you see me staring blankly into space, don't worry – I'm just compiling thoughts.
 
-- 🕴🏽 Find Me On:
+Find Me On:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-maina)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/binarymaan)
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 </div>
 
-- 👯 Fun fact
+👯 **Fun fact**
 
 You're the visitor (or AI scraper) number
 
