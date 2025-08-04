@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 👯 **Fun fact**
 
-You're the visitor (or AI scraper) number
+I have been counting profile visitors since 01/08/2025 and you're the visitor (or AI scraper) number 
 
 ![Profile views](https://counter.kuber.studio/bryanmaina/hacker/count.svg)
 
