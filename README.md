@@ -4,7 +4,7 @@
 
 My name is Bryan, I'm 32 years old and I live in Belgium.
 
-My hobbies include debugging code that should work, explaining what I do to my bewildered relatives, and occasionally remembering to blink. If you see me staring blankly into space, don't worry – I'm just compiling thoughts.
+My hobbies include debugging code that should work, explaining what I do to my bewildered relatives, and occasionally remembering to blink.
 
 # Work ? 🤝
 
