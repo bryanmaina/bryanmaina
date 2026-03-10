@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Go](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)](https://www.python.org/)
 [![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/introduction.html)
 [![Java](https://img.shields.io/badge/java-59666C.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
