@@ -70,4 +70,4 @@ I have been counting profile visitors since 01/08/2025 and you're the visitor (o
 
 ![Profile views](https://counter.kuber.studio/bryanmaina/hacker/count.svg)
 
-
+![Contribution and stre](https://github-readme-streak-stats.herokuapp.com/?user=bryanmaina)
